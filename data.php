@@ -4,7 +4,7 @@
 $servername = '34.134.24.224';
 $username = 'root';
 $password = 'lab-password';
-$database = 'inventory';
+$database = 'mysql';
 $table = 'products';
 
 // Create connection
