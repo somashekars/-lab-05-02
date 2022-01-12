@@ -3,7 +3,7 @@
 
 $servername = '34.134.24.224';
 $username = 'root';
-$password = 'lab-password';
+$password = '9bcyPpBfG4OPgs9j';
 $database = 'mysql';
 $table = 'products';
 
